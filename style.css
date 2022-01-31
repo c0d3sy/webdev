@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    
+}
+
+.one {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornsilk;
+}
+.two {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+.three {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornsilk;
+}
+.four {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+.five {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornsilk;
+}
